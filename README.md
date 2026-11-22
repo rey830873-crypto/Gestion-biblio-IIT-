@@ -5,7 +5,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-MVC-ec4899)
 ![API](https://img.shields.io/badge/API-Open%20Library-10b981)
 
-Application console en **Python** réalisée dans le cadre du cours à l'**Institut Ivoirien de Technologie (IIT)** de Grand-Bassam.  
+Application console en **Python**
 Elle permet de gérer le catalogue de livres, les emprunts étudiants, les retours et les retards, avec persistance dans **SQLite** (`biblio.sqlite3`) et importation de véritables livres via l'API **Open Library**.
 
 ---
@@ -81,4 +81,4 @@ python main.py
 
 ## Auteure
 
-**Hervé Regina EDERE** — Étudiante en Licence 2 Génie Logiciel, Institut Ivoirien de Technologie (IIT), Grand-Bassam  
+**Hervé Regina EDERE** :  Étudiante en Licence 2 Génie Logiciel, Institut Ivoirien de Technologie (IIT), Grand-Bassam  
